@@ -7,8 +7,7 @@
   - Fake API → https://fakeapi.platzi.com/ (Claudia y Karina)
   - Bugbank → bugbank-ui (Sergio)
   - Restful Booker → restful-booker (Marisol y Alain)
-  - Documentación de las pruebas: https://docs.google.com/spreadsheets/d/15zxI2Il4YhJfbdf9e8pos4FR9_6j362L/edit?usp=sharing&ouid=117701476691019254617&rtpof=true&sd=true
-    
+      
  #### 🙂 Proyectos Fake Api :
   El presente proyecto contiene un conjunto de pruebas funcionales realizadas sobre la API Fake API e-commerce, una API que se puede utilizar con cualquier tipo de proyecto que necesite productos, usuarios, categorías, autenticación y usuarios en formato JSON. Puedes utilizar esta API para crear prototipos de comercio electrónico y aprender a conectarse a una API con las mejores prácticas. Dentro de las pruebas se incluyeron las funcionalidades más relevantes para el registro del usuario, de productos y de la creacion de nuevas categorias, usando de diferentes endpoints que permitian la creación de las pruebas necesarias.
 
@@ -33,4 +32,5 @@
 ## Resultados de las pruebas
 Las pruebas se desarrollaron en el siguiente archivo, el cual contiene los enlaces correspondientes hacia el gestor 
 de incidencias donde se desarrollaron los informes de errores.
-https://docs.google.com/spreadsheets/d/15zxI2Il4YhJfbdf9e8pos4FR9_6j362L/edit?usp=sharing&ouid=117701476691019254617&rtpof=true&sd=true
+- Documentación de las pruebas: https://docs.google.com/spreadsheets/d/15zxI2Il4YhJfbdf9e8pos4FR9_6j362L/edit?usp=sharing&ouid=117701476691019254617&rtpof=true&sd=true
+  
