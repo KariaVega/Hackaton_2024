@@ -30,4 +30,7 @@
   - [POST] https://api.escuelajs.co/api/v1/categories/ (crear una categoria)
   - [GET] https://api.escuelajs.co/api/v1/categories/1/products (Obtenga todos los productos por categoría)
   
-
+## Resultados de las pruebas
+Las pruebas se desarrollaron en el siguiente archivo, el cual contiene los enlaces correspondientes hacia el gestor 
+de incidencias donde se desarrollaron los informes de errores.
+https://docs.google.com/spreadsheets/d/15zxI2Il4YhJfbdf9e8pos4FR9_6j362L/edit?usp=sharing&ouid=117701476691019254617&rtpof=true&sd=true
