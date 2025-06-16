@@ -1,4 +1,4 @@
-# BugBank_2024
+# Fake API_2024
  ### ¡Hola! 👋Somo el equipo 6 del Hackaton
   #### ☀️ Nosotros:
   Marisol, Alain, Claudia, Sergio y Karina.
