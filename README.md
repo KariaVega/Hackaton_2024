@@ -4,9 +4,9 @@
   Marisol, Alain, Claudia, Sergio y Karina.
 
   #### 🙂 Proyectos :
-  - Fake API → https://fakeapi.platzi.com/
-  - Bugbank → bugbank-ui
-  - Restful Booker → restful-booker
+  - Fake API → https://fakeapi.platzi.com/ (Claudia y Karina)
+  - Bugbank → bugbank-ui (Sergio)
+  - Restful Booker → restful-booker (Marisol y Alain)
   - Documentación de las pruebas: https://docs.google.com/spreadsheets/d/15zxI2Il4YhJfbdf9e8pos4FR9_6j362L/edit?usp=sharing&ouid=117701476691019254617&rtpof=true&sd=true
     
  #### 🙂 Proyectos Fake Api :
