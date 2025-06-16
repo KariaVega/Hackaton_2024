@@ -1,4 +1,7 @@
 # Fake API_2024
+
+![image](https://github.com/user-attachments/assets/451c5a2a-ed64-4fa7-8760-00e0a1f9c751)
+
  ### ¡Hola! 👋Somo el equipo 6 del Hackaton
   #### ☀️ Nosotros:
   Marisol, Alain, Claudia, Sergio y Karina.
